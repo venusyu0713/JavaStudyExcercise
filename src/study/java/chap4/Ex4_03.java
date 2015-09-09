@@ -1,6 +1,6 @@
 package study.java.chap4;
 
-public class Ex4_3 {
+public class Ex4_03 {
 	public static void main(String args[])
 	{
 		int sum = 0;
